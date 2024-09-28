@@ -35,6 +35,8 @@ Then, simply open the `index.html` file in a browser.
 2. A random motivational quote will appear on the screen.
 3. Refresh or click the button again for another quote.
 
+## Live Demo
+https://sebaiy-8.github.io/Quotes/
 ## Connect with Me
 
 For any questions or feedback, feel free to contact me:
