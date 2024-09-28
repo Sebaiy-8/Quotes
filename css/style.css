@@ -1,0 +1,21 @@
+.content{
+    text-align: center;
+}
+.content h1{
+    font-size: 75px;
+    font-family: Impact;
+}
+.content p{
+    font-size: 35px;
+}
+.content button{
+
+        width: 250px;
+        height: 80px;
+        background-color: rgb(0, 21, 255);
+        color: white;
+    
+}
+.content button:hover {
+    background-color: rgb(46, 182, 137);
+}
